@@ -70,8 +70,8 @@ person_df = pd.DataFrame([{
     "gender": gender,
 }])
 
-st.write("Twoje dane:")
-st.dataframe(person_df, hide_index=True)
+# st.write("Twoje dane:")
+# st.dataframe(person_df, hide_index=True)
 
 model = get_model()
 all_df = get_all_participants_with_clusters()
