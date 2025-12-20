@@ -1,0 +1,98 @@
+{
+  "0": {
+    "name": "Aktywni dorośli nadwodni psiarze",
+    "description": "To głównie osoby w wieku 35-44, które najczęściej wybierają nad wodą i deklarują, że lubią psy. Dominująca płeć: kobieta. Wykształcenie najczęściej: wyższe.",
+    "size": 15,
+    "summary": {
+      "age": "35-44",
+      "edu_level": "Wyższe",
+      "fav_animals": "Psy",
+      "fav_place": "Nad wodą",
+      "gender": "Kobieta"
+    }
+  },
+  "1": {
+    "name": "Aktywni dorośli nadwodni psiarze",
+    "description": "To głównie osoby w wieku 35-44, które najczęściej wybierają nad wodą i deklarują, że lubią psy. Dominująca płeć: mężczyzna. Wykształcenie najczęściej: wyższe.",
+    "size": 44,
+    "summary": {
+      "age": "35-44",
+      "edu_level": "Wyższe",
+      "fav_animals": "Psy",
+      "fav_place": "Nad wodą",
+      "gender": "Mężczyzna"
+    }
+  },
+  "2": {
+    "name": "Aktywni dorośli górscy psiarze",
+    "description": "To głównie osoby w wieku 25-34, które najczęściej wybierają w górach i deklarują, że lubią psy. Dominująca płeć: mężczyzna. Wykształcenie najczęściej: wyższe.",
+    "size": 22,
+    "summary": {
+      "age": "25-34",
+      "edu_level": "Wyższe",
+      "fav_animals": "Psy",
+      "fav_place": "W górach",
+      "gender": "Mężczyzna"
+    }
+  },
+  "3": {
+    "name": "Aktywni dorośli górscy kociarze",
+    "description": "To głównie osoby w wieku 35-44, które najczęściej wybierają w górach i deklarują, że lubią koty. Dominująca płeć: mężczyzna. Wykształcenie najczęściej: wyższe.",
+    "size": 21,
+    "summary": {
+      "age": "35-44",
+      "edu_level": "Wyższe",
+      "fav_animals": "Koty",
+      "fav_place": "W górach",
+      "gender": "Mężczyzna"
+    }
+  },
+  "4": {
+    "name": "Spokojni dorośli nadwodni psiarze",
+    "description": "To głównie osoby w wieku 45-54, które najczęściej wybierają nad wodą i deklarują, że lubią psy. Dominująca płeć: kobieta. Wykształcenie najczęściej: wyższe.",
+    "size": 10,
+    "summary": {
+      "age": "45-54",
+      "edu_level": "Wyższe",
+      "fav_animals": "Psy",
+      "fav_place": "Nad wodą",
+      "gender": "Kobieta"
+    }
+  },
+  "5": {
+    "name": "Spokojni dorośli leśni indywidualiści",
+    "description": "To głównie osoby w wieku 45-54, które najczęściej wybierają w lesie i deklarują, że lubią inne. Dominująca płeć: mężczyzna. Wykształcenie najczęściej: wyższe.",
+    "size": 16,
+    "summary": {
+      "age": "45-54",
+      "edu_level": "Wyższe",
+      "fav_animals": "Inne",
+      "fav_place": "W lesie",
+      "gender": "Mężczyzna"
+    }
+  },
+  "6": {
+    "name": "Spokojni dorośli górscy indywidualiści",
+    "description": "To głównie osoby w wieku >=65, które najczęściej wybierają w górach i deklarują, że lubią brak ulubionych. Dominująca płeć: kobieta. Wykształcenie najczęściej: wyższe.",
+    "size": 6,
+    "summary": {
+      "age": ">=65",
+      "edu_level": "Wyższe",
+      "fav_animals": "Brak ulubionych",
+      "fav_place": "W górach",
+      "gender": "Kobieta"
+    }
+  },
+  "7": {
+    "name": "Aktywni dorośli miejscy indywidualiści",
+    "description": "To głównie osoby w wieku 25-34, które najczęściej wybierają inne i deklarują, że lubią inne. Dominująca płeć: mężczyzna. Wykształcenie najczęściej: średnie.",
+    "size": 6,
+    "summary": {
+      "age": "25-34",
+      "edu_level": "Średnie",
+      "fav_animals": "Inne",
+      "fav_place": "Inne",
+      "gender": "Mężczyzna"
+    }
+  }
+}

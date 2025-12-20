@@ -6,3 +6,4 @@
 *export_clean_pipeline_sklearn.py
 *logs.log
 *N_CLUSTERS.py
+*generate_cluster_descriptions.py
