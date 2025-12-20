@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).parent
 
 DATA = BASE_DIR / "welcome_survey_simple_v1.csv"
 MODEL_FILE = BASE_DIR / "cluster_pipe.joblib"
-CLUSTER_NAMES_AND_DESCRIPTIONS = BASE_DIR / "welcome_survey_cluster_names_and_descriptions_v2.json"
+CLUSTER_NAMES_AND_DESCRIPTIONS = BASE_DIR / "welcome_survey_cluster_names_and_descriptions_v1.json"
 
 st.set_page_config(page_title="Znajdź znajomych", layout="centered")
 
